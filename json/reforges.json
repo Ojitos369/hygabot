@@ -1,0 +1,1792 @@
+{
+    "gentle":{
+        "name": "Gentle",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+8%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+5"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+15%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+20%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+25%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+20"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+30%"}
+                ]
+            }
+        },
+        "alias": "bas swords fishing rods espadas cañas gentle strength bonus attack speed fuerza velocidad de ataque"
+    },
+    "odd": {
+        "name": "Odd",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "intelligence", "cantidad": "-5"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "intelligence", "cantidad": "-10"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "intelligence", "cantidad": "-18"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+20%"},
+                    {"stat": "Crit Damage", "cantidad": "+22%"},
+                    {"stat": "intelligence", "cantidad": "-32"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+25%"},
+                    {"stat": "Crit Damage", "cantidad": "+30%"},
+                    {"stat": "intelligence", "cantidad": "-50"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+30%"},
+                    {"stat": "Crit Damage", "cantidad": "+40%"},
+                    {"stat": "intelligence", "cantidad": "-75"}
+                ]
+            }
+        },
+        "alias": "cc cd swords fishing rods espadas cañas odd crit chance damage dmg intelligence mana inteligencia critico daño"
+    },
+    "fast": {
+        "name": "Fast",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+20%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+30%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+40%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+50%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Bonus Attack Speed", "cantidad": "+60%"}
+                ]
+            }
+        },
+        "alias": "bas swords fishing rods espadas cañas fast attack speed velocidad de ataque"
+    },
+    "fair":{
+        "name": "Fair",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+2"},
+                    {"stat": "Crit Chance", "cantidad": "+2%"},
+                    {"stat": "Crit Damage", "cantidad": "+2%"},
+                    {"stat": "intelligence", "cantidad": "+2"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+3%"},
+                    {"stat": "Crit Damage", "cantidad": "+3%"},
+                    {"stat": "intelligence", "cantidad": "+3"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+3%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Crit Chance", "cantidad": "+4%"},
+                    {"stat": "Crit Damage", "cantidad": "+4%"},
+                    {"stat": "intelligence", "cantidad": "+4"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+4%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Crit Damage", "cantidad": "+7%"},
+                    {"stat": "intelligence", "cantidad": "+7"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+7%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "intelligence", "cantidad": "+10"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+12%"},
+                    {"stat": "intelligence", "cantidad": "+12"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+12%"}
+                ]
+            }
+        },
+        "alias": "cc cd bas swords fishing rods espadas cañas fair strength crit chance damage dmg intelligence mana bonus attack speed fuerza critico daño inteligencia ataque"
+    },
+    "epic": {
+        "name": "Epic",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+1%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+20"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "Crit Damage", "cantidad": "+20%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+4%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+32"},
+                    {"stat": "Crit Damage", "cantidad": "+27%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+7%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+40"},
+                    {"stat": "Crit Damage", "cantidad": "+35%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+50"},
+                    {"stat": "Crit Damage", "cantidad": "+45%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+15%"}
+                ]
+            }
+        },
+        "alias": "cd bas swords fishing rods espadas cañas epic strength crit damage dmg bonus attack speed fuerza critico daño ataque"
+    },
+    "sharp": {
+        "name": "Sharp",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+10%"},
+                    {"stat":"Crit Damage", "cantidad": "+20%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+12%"},
+                    {"stat":"Crit Damage", "cantidad": "+30%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+14%"},
+                    {"stat":"Crit Damage", "cantidad": "+40%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+17%"},
+                    {"stat":"Crit Damage", "cantidad": "+55%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+20%"},
+                    {"stat":"Crit Damage", "cantidad": "+75%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat":"Crit Chance", "cantidad": "+25%"},
+                    {"stat":"Crit Damage", "cantidad": "+90%"}
+                ]
+            }
+        },
+        "alias": "cc cd swords fishing rods espadas cañas sharp crit chance crit damage dmg fuerza critico daño"
+    },
+    "heroic": {
+        "name": "Heroic",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "intelligence", "cantidad": "+40"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+1%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+20"},
+                    {"stat": "intelligence", "cantidad": "+50"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "intelligence", "cantidad": "+65"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+32"},
+                    {"stat": "intelligence", "cantidad": "+80"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+3%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+40"},
+                    {"stat": "intelligence", "cantidad": "+100"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+5%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+50"},
+                    {"stat": "intelligence", "cantidad": "+125"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+7%"}
+                ]
+            }
+        },
+        "alias": "bas swords fishing rods espadas cañas heroic strength intelligence mana bonus attack speed fuerza inteligencia ataque velocidad de"
+    },
+    "spicy": {
+        "name": "Spicy",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+2"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+25%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+1%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+35%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+45%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+4%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+60%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+7%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+80%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+100%"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+15%"}
+                ]
+            }
+        },
+        "alias": "cd cc bas swords fishing rods espadas cañas spicy strength crit chance crit damage dmg bonus attack speed fuerza critico daño ataque velocidad de"
+    },
+    "legendary": {
+        "name": "Legendary",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+5%"},
+                    {"stat": "Crit Damage", "cantidad": "+5%"},
+                    {"stat": "intelligence", "cantidad": "+5"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "intelligence", "cantidad": "+8"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+3%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "intelligence", "cantidad": "+12"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+5%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+18"},
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+22%"},
+                    {"stat": "intelligence", "cantidad": "+18"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+7%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+28%"},
+                    {"stat": "intelligence", "cantidad": "+25"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+32"},
+                    {"stat": "Crit Chance", "cantidad": "+18%"},
+                    {"stat": "Crit Damage", "cantidad": "+36%"},
+                    {"stat": "intelligence", "cantidad": "+35"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+15%"}
+                ]
+            }
+        },
+        "alias": "cc cd bas swords fishing rods espadas cañas legendary strength crit chance damage dmg intelligence mana bonus attack speed fuerza critico daño inteligencia ataque velocidad de"
+    },
+    "dirty": {
+        "name": "Dirty",
+        "stone": "Dirt Bottle",
+        "obtencion": "Se compra con Smithmonger por **`100,000 (100k) coins`**",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "requisitos": ["Mining skill **`10`**"],
+        "rarezas": {
+            "common": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+2"},
+                    {"stat": "Strength", "cantidad": "+2"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+2%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+3"},
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+3%"}
+                ]
+            },
+            "rare": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+6"},
+                    {"stat": "Strength", "cantidad": "+6"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+5%"}
+                ]
+            },
+            "epic": {
+                "costo": "15,000 (15k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+9"},
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+10%"}
+                ]
+            },
+            "legendary": {
+                "costo": "50,000 (50k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+12"},
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+15%"}
+                ]
+            },
+            "mythic": {
+                "costo": "75,000 (75k) coins",
+                "stats": [
+                    {"stat": "Ferocity", "cantidad": "+15"},
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Bonus Attack Speed", "cantidad": "+20%"}
+                ]
+            }
+        },
+        "alias": "bas swords fishing rods espadas cañas dirty dirt bottle stone ferocity strength bonus attack speed fuerza ataque velocidad de"
+    },
+    "fabled": {
+        "name": "Fabled",
+        "stone": "Dragon Claw",
+        "obtencion": "Dropeo de cualquier **`Ender Dragon`**",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "requisitos": ["Mining skill **`22`**"],
+        "rarezas": {
+            "common": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+15%"},
+                    {"stat": "Strength", "cantidad": "+30"}
+                ]
+            },
+            "uncommon": {
+                "costo": "125,000 (125k) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+20%"},
+                    {"stat": "Strength", "cantidad": "+35"}
+                ]
+            },
+            "rare": {
+                "costo": "250,000 (250k) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+25%"},
+                    {"stat": "Strength", "cantidad": "+40"}
+                ]
+            },
+            "epic": {
+                "costo": "500,000 (500k) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+32%"},
+                    {"stat": "Strength", "cantidad": "+50"}
+                ]
+            },
+            "legendary": {
+                "costo": "1,000,000 (1m) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+40%"},
+                    {"stat": "Strength", "cantidad": "+60"}
+                ]
+            },
+            "mythic": {
+                "costo": "2,000,000 (2m) coins",
+                "stats": [
+                    {"stat": " Crit Damage", "cantidad": "+50%"},
+                    {"stat": "Strength", "cantidad": "+75"}
+                ]
+            }
+        },
+        "alias": "cd swords fishing rods espadas cañas fabled dragon claw stone crit damage dmg strength daño critico fuerza"
+    },
+    "suspicious": {
+        "name": "Suspicious",
+        "stone": "Suspicious Vial",
+        "obtencion": "Chest **`f3`**",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "requisitos": ["Mining skill **`23`**"],
+        "rarezas": {
+            "common": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+1%"},
+                    {"stat": "Crit Damage", "cantidad": "+30%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "125,000 (125k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+2%"},
+                    {"stat": "Crit Damage", "cantidad": "+40%"}
+                ]
+            },
+            "rare": {
+                "costo": "250,000 (250k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+3%"},
+                    {"stat": "Crit Damage", "cantidad": "+50%"}
+                ]
+            },
+            "epic": {
+                "costo": "500,000 (500k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+5%"},
+                    {"stat": "Crit Damage", "cantidad": "+65%"}
+                ]
+            },
+            "legendary": {
+                "costo": "1,000,000 (1m) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Crit Damage", "cantidad": "+85%"}
+                ]
+            },
+            "mythic": {
+                "costo": "2,000,000 (2m) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+110%"}
+                ]
+            }
+        },
+        "alias": "cc cd swords fishing rods espadas cañas suspicious vial stone crit chance damage dmg daño critico"
+    },
+    "gilded": {
+        "name": "Gilded",
+        "stone": "Midas Jewel",
+        "obtencion": "Dropeo de **`King Midas`** en Catacombs",
+        "aplicable": ["Midas' Sword"],
+        "requisitos": ["Mining skill **`25`**"],
+        "rarezas": {
+            "legendary": {
+                "costo": "5,000,000 (5m) coins",
+                "stats": [
+                    {"stat": "Damage", "cantidad": "+75"},
+                    {"stat": "Strength", "cantidad": "+75"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000,000 (10m) coins",
+                "stats": [
+                    {"stat": "Damage", "cantidad": "+90"},
+                    {"stat": "Strength", "cantidad": "+90"}
+                ]
+            }
+        },
+        "alias": "swords espadas midas jewel stone strength daño fuerza damage dmg"
+    },
+    "warped": {
+        "name": "Warped",
+        "stone": "Warped Stone",
+        "obtencion": "Obsidian o Bedrock Chest en **`f5`**",
+        "aplicable": ["Aspect of the End", "Aspect of the Void"],
+        "requisitos": ["Mining skill **`26`**"],
+        "rarezas": {
+            "rare": {
+                "costo": "5,000,000 (5m) coins",
+                "stats": [
+                    {"stat": "Damage", "cantidad": "+165"},
+                    {"stat": "Strength", "cantidad": "+165"}
+                ]
+            },
+            "epic": {
+                "costo": "5,000,000 (5m) coins",
+                "stats": [
+                    {"stat": "Damage", "cantidad": "+165"},
+                    {"stat": "Strength", "cantidad": "+165"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000,000 (5m) coins",
+                "stats": [
+                    {"stat": "intelligence", "cantidad": "+65"},
+                    {"stat": "Damage", "cantidad": "+165"},
+                    {"stat": "Strength", "cantidad": "+165"}
+                ]
+            }
+        },
+        "alias": "espadas swords aspect of the end void aote aotv warped stone damage dmg daño fuerza strength intelligence mana inteligencia"
+    },
+    "withered": {
+        "name": "Withered",
+        "stone": "Wither Blood",
+        "obtencion": "Chest en **`f7`**",
+        "aplicable": ["Swords", "Fishing Rods"],
+        "requisitos": ["Mining skill **`30`**"],
+        "rarezas": {
+            "common": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+60"}
+                ]
+            },
+            "uncommon": {
+                "costo": "20,000 (20k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+75"}
+                ]
+            },
+            "rare": {
+                "costo": "30,000 (30k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+90"}
+                ]
+            },
+            "epic": {
+                "costo": "40,000 (40k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+110"}
+                ]
+            },
+            "legendary": {
+                "costo": "50,000 (50k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+135"}
+                ]
+            },
+            "mythic": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+170"}
+                ]
+            }
+        },
+        "alias": "swords fishing rods espadas cañas wither blood stone strength daño"
+    },
+    "bulky": {
+        "name": "Bulky",
+        "stone": "Bulky Stone",
+        "obtencion": "Se puede obtener como un tesoro raro despues de hablar con **`Treasure Hunter`**",
+        "aplicable": ["Swords"],
+        "requisitos": ["Mining skill **`25`**"],
+        "rarezas": {
+            "common": {
+                "costo": "20,000 (20k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+2"},
+                    {"stat": "Health", "cantidad": "+4"}
+                ]
+            },
+            "uncommon": {
+                "costo": "40,000 (40k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+3"},
+                    {"stat": "Health", "cantidad": "+6"}
+                ]
+            },
+            "rare": {
+                "costo": "80,000 (80k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+5"},
+                    {"stat": "Health", "cantidad": "+9"}
+                ]
+            },
+            "epic": {
+                "costo": "150,000 (150k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+8"},
+                    {"stat": "Health", "cantidad": "+12"}
+                ]
+            },
+            "legendary": {
+                "costo": "300,000 (300k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+13"},
+                    {"stat": "Health", "cantidad": "+15"}
+                ]
+            },
+            "mythic": {
+                "costo": "600,000 (600k) coins",
+                "stats": [
+                    {"stat": "Defense", "cantidad": "+21"},
+                    {"stat": "Health", "cantidad": "+20"}
+                ]
+            }
+        },
+        "alias": "hp salud swords espadas stone defense defenza health vida"
+    },
+    "salty": {
+        "name": "Salty",
+        "obtencion": "64 Hunks of Ice con **`Terry`**",
+        "aplicable": ["Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+1%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"}
+                ]
+            },
+            "rare": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"}
+                ]
+            },
+            "epic": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+3%"}
+                ]
+            },
+            "legendary": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+5%"}
+                ]
+            },
+            "mythic": {
+                "costo": "64 Hunks of Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+7%"}
+                ]
+            }
+        },
+        "alias": "fishing rods hunk of ice sea creature chance scc cañas"
+    },
+    "treacherous": {
+        "name": "Treacherous",
+        "obtencion": "64 Hunks of Blue Ice con **`Terry`**",
+        "aplicable": ["Fishing Rods"],
+        "rarezas": {
+            "common": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+1%"},
+                    {"stat": "Strength", "cantidad": "+5"}
+                ]
+            },
+            "uncommon": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Strength", "cantidad": "+10"}
+                ]
+            },
+            "rare": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Strength", "cantidad": "+15"}
+                ]
+            },
+            "epic": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+3%"},
+                    {"stat": "Strength", "cantidad": "+20"}
+                ]
+            },
+            "legendary": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+5%"},
+                    {"stat": "Strength", "cantidad": "+25"}
+                ]
+            },
+            "mythic": {
+                "costo": "64 Hunks of Blue Ice",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+7%"},
+                    {"stat": "Strength", "cantidad": "+30"}
+                ]
+            }
+        },
+        "alias": "fishing rods hunk of blue ice sea creature chance scc cañas fuerza strength"
+    },
+    "stiff": {
+        "name": "Stiff",
+        "stone": "Hardened Wood",
+        "obtencion": "Lo vende **`Jake`** por 15,000 (15k) coins",
+        "aplicable": ["Fishing Rods"],
+        "requisitos": ["Mining skill **`12`**"],
+        "rarezas": {
+            "common": {
+                "costo": "4,000 (4k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+1%"},
+                    {"stat": "Strength", "cantidad": "+2"}
+                ]
+            },
+            "uncommon": {
+                "costo": "7,500 (7.5k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Strength", "cantidad": "+4"}
+                ]
+            },
+            "rare": {
+                "costo": "15,000 (15k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Strength", "cantidad": "+6"}
+                ]
+            },
+            "epic": {
+                "costo": "40,000 (40k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+3%"},
+                    {"stat": "Strength", "cantidad": "+8"}
+                ]
+            },
+            "legendary": {
+                "costo": "75,000 (75k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+5%"},
+                    {"stat": "Strength", "cantidad": "+10"}
+                ]
+            },
+            "mythic": {
+                "costo": "150,000 (150k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+7%"},
+                    {"stat": "Strength", "cantidad": "+12"}
+                ]
+            }
+        },
+        "alias": "fishing rods sea creature chance scc cañas fuerza strength hardened wood stone"
+    },
+    "lucky": {
+        "name": "Lucky",
+        "stone": "Lucky Dice",
+        "obtencion": "Lo vende **`Jake`** por 1,000,000 (1m) coins",
+        "aplicable": ["Fishing Rods"],
+        "requisitos": ["Mining skill **`24`**"],
+        "rarezas": {
+            "common": {
+                "costo": "20,000 (20k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+1%"},
+                    {"stat": "Magic Find", "cantidad": "+1"}
+                ]
+            },
+            "uncommon": {
+                "costo": "40,000 (40k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Magic Find", "cantidad": "+2"}
+                ]
+            },
+            "rare": {
+                "costo": "80,000 (80k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+2%"},
+                    {"stat": "Magic Find", "cantidad": "+3"}
+                ]
+            },
+            "epic": {
+                "costo": "150,000 (150k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+3%"},
+                    {"stat": "Magic Find", "cantidad": "+4"}
+                ]
+            },
+            "legendary": {
+                "costo": "300,000 (300k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+5%"},
+                    {"stat": "Magic Find", "cantidad": "+5"}
+                ]
+            },
+            "mythic": {
+                "costo": "600,000 (600k) coins",
+                "stats": [
+                    {"stat": "Sea Creature Chance", "cantidad": "+7%"},
+                    {"stat": "Magic Find", "cantidad": "+6"}
+                ]
+            }
+        },
+        "alias": "fishing rods cañas sea creature chance scc magic find lucky dice stone"
+    },
+    "deadly": {
+        "name": "Deadly",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+5%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+13%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+16%"},
+                    {"stat": "Crit Damage", "cantidad": "+18%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+19%"},
+                    {"stat": "Crit Damage", "cantidad": "+32%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+22%"},
+                    {"stat": "Crit Damage", "cantidad": "+50%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+25%"},
+                    {"stat": "Crit Damage", "cantidad": "+78%"}
+                ]
+            }
+        },
+        "alias": "bows arcos crit damage dmg chance ditico daño cc cd"
+    },
+    "fine": {
+        "name": "Fine",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+5%"},
+                    {"stat": "Crit Damage", "cantidad": "+2%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Crit Damage", "cantidad": "+4%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Crit Damage", "cantidad": "+7%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+18"},
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+33"},
+                    {"stat": "Crit Chance", "cantidad": "+18%"},
+                    {"stat": "Crit Damage", "cantidad": "+20%"}
+                ]
+            }
+        },
+        "alias":"bows arcos crit damage dmg chance cd cc critico daño strength"
+    },
+    "grand": {
+        "name": "Grand",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+32"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+40"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+50"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+60"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+75"}
+                ]
+            }
+        },
+        "alias": "bows arcos strength daño"
+    },
+    "hasty": {
+        "name": "Hasty",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+20%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+5"},
+                    {"stat": "Crit Chance", "cantidad": "+25%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+30%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Crit Chance", "cantidad": "+40%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Crit Chance", "cantidad": "+50%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+20"},
+                    {"stat": "Crit Chance", "cantidad": "+75%"}
+                ]
+            }
+        },
+        "alias": "bows arcos crit chance strength cc critico fuerza"
+    },
+    "neat": {
+        "name": "Neat",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+4%"},
+                    {"stat": "Intelligence", "cantidad": "+3"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+8%"},
+                    {"stat": "Intelligence", "cantidad": "+6"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+14%"},
+                    {"stat": "Crit Damage", "cantidad": "+14%"},
+                    {"stat": "Intelligence", "cantidad": "+10"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+17%"},
+                    {"stat": "Crit Damage", "cantidad": "+20%"},
+                    {"stat": "Intelligence", "cantidad": "+15"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+20%"},
+                    {"stat": "Crit Damage", "cantidad": "+30%"},
+                    {"stat": "Intelligence", "cantidad": "+20"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+25%"},
+                    {"stat": "Crit Damage", "cantidad": "+40%"},
+                    {"stat": "Intelligence", "cantidad": "+25"}
+                ]
+            }
+        },
+        "alias": "bows arcos crit chance damage dmg daño cc cd intelligence mana inteligencia"
+    },
+    "rapid": {
+        "name": "Rapid",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+2"},
+                    {"stat": "Crit Damage", "cantidad": "+35%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Damage", "cantidad": "+45%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Crit Damage", "cantidad": "+55%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Damage", "cantidad": "+65%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Crit Damage", "cantidad": "+75%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Crit Damage", "cantidad": "+90%"}
+                ]
+            }
+        },
+        "alias": "bows arcos crit damage cd dmg daño strength fuerza"
+    },
+    "unreal":{
+        "name": "Unreal",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+8%"},
+                    {"stat": "Crit Damage", "cantidad": "+5%"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+18%"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+18"},
+                    {"stat": "Crit Chance", "cantidad": "+11%"},
+                    {"stat": "Crit Damage", "cantidad": "+32%"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "Crit Chance", "cantidad": "+13%"},
+                    {"stat": "Crit Damage", "cantidad": "+50%"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+34"},
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+70%"}
+                ]
+            }
+        },
+        "alias": "bows arcos strength fuerza crit chance cc damage cd dmg daño"
+    },
+    "awkward": {
+        "name": "Awkward",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+5%"},
+                    {"stat": "Intelligence", "cantidad": "-5"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "Intelligence", "cantidad": "-10"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "Intelligence", "cantidad": "-18"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+20%"},
+                    {"stat": "Crit Damage", "cantidad": "+22%"},
+                    {"stat": "Intelligence", "cantidad": "-32"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+25%"},
+                    {"stat": "Crit Damage", "cantidad": "+30%"},
+                    {"stat": "Intelligence", "cantidad": "-50"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+30%"},
+                    {"stat": "Crit Damage", "cantidad": "+35%"},
+                    {"stat": "Intelligence", "cantidad": "-72"}
+                ]
+            }
+        },
+        "alias": "bows arcos crit chance cc damage dmg daño intelligence inteligencia mana"
+    },
+    "rich": {
+        "name": "Rich",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Bows"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+2"},
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+1%"},
+                    {"stat": "Intelligence", "cantidad": "+20"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+3"},
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+2%"},
+                    {"stat": "Intelligence", "cantidad": "+25"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Crit Chance", "cantidad": "+14%"},
+                    {"stat": "Crit Damage", "cantidad": "+4%"},
+                    {"stat": "Intelligence", "cantidad": "+30"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+7"},
+                    {"stat": "Crit Chance", "cantidad": "+17%"},
+                    {"stat": "Crit Damage", "cantidad": "+7%"},
+                    {"stat": "Intelligence", "cantidad": "+40"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+10"},
+                    {"stat": "Crit Chance", "cantidad": "+20%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "Intelligence", "cantidad": "+50"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Strength", "cantidad": "+15"},
+                    {"stat": "Crit Chance", "cantidad": "+25%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "Intelligence", "cantidad": "+60"}
+                ]
+            }
+        },
+        "alias": "bows arcos strength fuerza crit chance cc damage dmg daño intelligence inteligencia mana"
+    },
+    "precise": {
+        "name": "Precise",
+        "stone": "Optical Lens",
+        "obtencion": "Drop raro del **boss `The Watcher`** en Catacombs",
+        "aplicable": ["Bows"],
+        "requisitos": ["Mining skill **`22`**"],
+        "rarezas": {
+            "common": {
+                "costo": "30,000 (30k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+8%"},
+                    {"stat": "Crit Damage", "cantidad": "+5%"},
+                    {"stat": "Strength", "cantidad": "+3"}
+                ]
+            },
+            "uncommon": {
+                "costo": "75,000 (75k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "Strength", "cantidad": "+7"}
+                ]
+            },
+            "rare": {
+                "costo": "150,000 (150k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+18%"},
+                    {"stat": "Strength", "cantidad": "+12"}
+                ]
+            },
+            "epic": {
+                "costo": "300,000 (300k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+11%"},
+                    {"stat": "Crit Damage", "cantidad": "+32%"},
+                    {"stat": "Strength", "cantidad": "+18"}
+                ]
+            },
+            "legendary": {
+                "costo": "600,000 (600k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+13%"},
+                    {"stat": "Crit Damage", "cantidad": "+50%"},
+                    {"stat": "Strength", "cantidad": "+25"}
+                ]
+            },
+            "mythic": {
+                "costo": "1,200,000 (1.2m) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+70%"},
+                    {"stat": "Strength", "cantidad": "+34"}
+                ]
+            }
+        },
+        "alias": "arcos bows optical lens stone crit chance cc damage cd dmg strength citico daño fuerza"
+    },
+    "spiritual": {
+        "name": "Spiritual",
+        "obtencion": "Dungeon en **`f4`**",
+        "aplicable": ["Bows"],
+        "requisitos": ["Mining skill **`24`**"],
+        "rarezas": {
+            "common": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Crit Damage", "cantidad": "+10%"},
+                    {"stat": "Strength", "cantidad": "+4"}
+                ]
+            },
+            "uncommon": {
+                "costo": "125,000 (125k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+8%"},
+                    {"stat": "Crit Damage", "cantidad": "+15%"},
+                    {"stat": "Strength", "cantidad": "+8"}
+                ]
+            },
+            "rare": {
+                "costo": "250,000 (250k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Crit Damage", "cantidad": "+23%"},
+                    {"stat": "Strength", "cantidad": "+14"}
+                ]
+            },
+            "epic": {
+                "costo": "500,000 (500k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+37%"},
+                    {"stat": "Strength", "cantidad": "+20"}
+                ]
+            },
+            "legendary": {
+                "costo": "1,000,000 (1m) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+55%"},
+                    {"stat": "Strength", "cantidad": "+28"}
+                ]
+            },
+            "mythic": {
+                "costo": "2,000,000 (2m) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+14%"},
+                    {"stat": "Crit Damage", "cantidad": "+75%"},
+                    {"stat": "Strength", "cantidad": "+38"}
+                ]
+            }
+        },
+        "alias": "arcos bows spirit stone crit chance cc damage cd dmg strength citico daño fuerza"
+    },
+    "headstrong":{
+        "name": "Headstrong",
+        "obtencion": "Dropeo de **`Treasure Hoarder`** en *Upper Mines (Dwarven Mines)*",
+        "aplicable": ["Bows"],
+        "requisitos": ["Mining skill **`15`**"],
+        "rarezas": {
+            "common": {
+                "costo": "15,000 (15k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+10%"},
+                    {"stat": "Crit Damage", "cantidad": "+4%"},
+                    {"stat": "Strength", "cantidad": "+2"}
+                ]
+            },
+            "uncommon": {
+                "costo": "30,000 (30k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+11%"},
+                    {"stat": "Crit Damage", "cantidad": "+8%"},
+                    {"stat": "Strength", "cantidad": "+5"}
+                ]
+            },
+            "rare": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Crit Damage", "cantidad": "+16%"},
+                    {"stat": "Strength", "cantidad": "+10"}
+                ]
+            },
+            "epic": {
+                "costo": "125,000 (125k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+13%"},
+                    {"stat": "Crit Damage", "cantidad": "+28%"},
+                    {"stat": "Strength", "cantidad": "+16"}
+                ]
+            },
+            "legendary": {
+                "costo": "250,000 (250k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Crit Damage", "cantidad": "+42%"},
+                    {"stat": "Strength", "cantidad": "+23"}
+                ]
+            },
+            "mythic": {
+                "costo": "500,000 (500k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+17%"},
+                    {"stat": "Crit Damage", "cantidad": "+60%"},
+                    {"stat": "Strength", "cantidad": "+33"}
+                ]
+            }
+        },
+        "alias": "arcos bows salmon opal stone crit chance cc damage cd dmg strength citico daño fuerza"
+    },
+    "ancient": {
+        "name": "Ancient",
+        "stone": "Precursor Gear",
+        "obtencion": "Gold Chest o mayor en **`f7`**",
+        "aplicable": ["Armor"],
+        "requisitos": ["Mining skill **`30`**"],
+        "rarezas": {
+            "common": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+3%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+6"},
+                    {"stat": "Strength", "cantidad": "+4"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            },
+            "uncommon": {
+                "costo": "20,000 (20k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+5%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+9"},
+                    {"stat": "Strength", "cantidad": "+8"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            },
+            "rare": {
+                "costo": "30,000 (30k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+7%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+12"},
+                    {"stat": "Strength", "cantidad": "+12"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            },
+            "epic": {
+                "costo": "40,000 (40k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+9%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+16"},
+                    {"stat": "Strength", "cantidad": "+18"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            },
+            "legendary": {
+                "costo": "50,000 (50k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+12%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+20"},
+                    {"stat": "Strength", "cantidad": "+25"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            },
+            "mythic": {
+                "costo": "60,000 (60k) coins",
+                "stats": [
+                    {"stat": "Crit Chance", "cantidad": "+15%"},
+                    {"stat": "Defense", "cantidad": "+7"},
+                    {"stat": "Intelligence", "cantidad": "+25"},
+                    {"stat": "Strength", "cantidad": "+35"},
+                    {"stat": "Health", "cantidad": "+7"}
+                ]
+            }
+        },
+        "alias": "armor armors armadura armaduras crit chance cc critico defense defenza intelligence inteligencia mana strength fuerza health vida salud"
+    },
+    "forceful": {
+        "name": "Forceful",
+        "obtencion": "Con Blacksmith",
+        "aplicable": ["Accesorios"],
+        "rarezas": {
+            "common": {
+                "costo": "250 coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+4"}
+                ]
+            },
+            "uncommon": {
+                "costo": "500 coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+5"}
+                ]
+            },
+            "rare": {
+                "costo": "1,000 (1k) coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+7"}
+                ]
+            },
+            "epic": {
+                "costo": "2,500 (2.5k) coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+10"}
+                ]
+            },
+            "legendary": {
+                "costo": "5,000 (5k) coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+15"}
+                ]
+            },
+            "mythic": {
+                "costo": "10,000 (10k) coins",
+                "stats": [
+                    {"stat":"Strength", "cantidad": "+20"}
+                ]
+            }
+        },
+        "alias": "accesorios talismanes strength fuerza"
+    }
+}

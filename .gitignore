@@ -1,0 +1,11 @@
+ah_data/ah_data*
+venv
+bot
+gbot
+hybot
+.vscode
+funciones/__pycache__
+__pycache__
+info_pruebas
+json/pruebas.json
+keys.py
